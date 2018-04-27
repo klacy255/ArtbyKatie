@@ -18,7 +18,7 @@ class Sketches extends Component {
             some tips for beginning artists learning to draw portraits. You can find my channel
               <a target="_blank" href="https://www.youtube.com/channel/UC9NSyewomOT5Yt-lMefIOgA?view_as=subscriber"> here </a>.
             I am also open to making videos on art topics that you request! If you have a portrait you want to see drawn
-            or a specific technique or type of portrait(for example: cross hatching shading, portrait techniques when drawing children, or how to draw with just one pencil)
+            or a specific technique or type of portrait (for example: cross hatching shading, portrait techniques when drawing children, or how to draw with just one pencil)
             I would gladly look into that.
             </p>
           </div>
