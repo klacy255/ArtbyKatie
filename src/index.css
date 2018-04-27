@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+
+ul.header {
+  background-color: #000000;
+  padding: 0;
+}
+
+ul.header li a {
+  color: #FFFfff;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+a, a:hover{
+  color: #DB154F;
+}
