@@ -3,7 +3,6 @@ import {Route, NavLink, HashRouter} from "react-router-dom";
 import About from "./components/about/About";
 import Artwork from "./components/artwork/Artwork";
 import Sketches from "./components/sketches/Sketches";
-import Contact from "./components/contact/Contact";
 
 import './App.css';
 
